@@ -1,4 +1,4 @@
-🛠️ System Log Triage & Assignment Tool (triage-log-processor.sh)
+🛠️ System Log Triage & Assignment Tool README.md File
 Project Overview
 This is a robust Bash script designed for system administrators and DevOps teams to rapidly triage and categorize system log errors (app_output.log) into actionable assignments. It uses a chain of standard Linux text processing tools (sed, sort, tee) to transform raw log data into a clean, prioritized list of tickets, assigning responsibility based on keyword (e.g., ERROR, DEBUG, INFO).
 
