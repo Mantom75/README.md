@@ -1,8 +1,7 @@
 🛠️ System Log Triage & Assignment Tool README.md File
 Project Overview
-This is a robust Bash script designed for system administrators and DevOps teams to rapidly triage and categorize system log errors (app_output.log) into actionable assignments. It uses a chain of standard Linux text processing tools (sed, sort, tee) to transform raw log data into a clean, prioritized list of tickets, assigning responsibility based on keyword (e.g., ERROR, DEBUG, INFO).
-
-This project serves as a comprehensive demonstration of advanced pattern matching, data piping, and bulk text substitution using Extended Regular Expressions in a professional Linux environment.
+Custom Script
+Using Bash and other commands.
 
 🔑 Key Features
 Bulk Triage: Processes thousands of lines of log data in seconds.
@@ -83,3 +82,4 @@ No copyrighted code was used, and the final script logic was engineered and test
   * **[Your Name Here]**
   * **[Your LinkedIn or Portfolio Link]**
   * **[Your Email]**
+  * **[Your file]**
